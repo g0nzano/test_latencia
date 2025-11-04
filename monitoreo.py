@@ -7,7 +7,7 @@ import time
 import sys
 
 # --- 1. CONFIGURACIÓN DEL HOST Y DB ---
-TARGET_HOST = "sistema.hostbrs.com.br" 
+TARGET_HOST = "sitio o ip " 
 DB_HOST = "localhost"
 DB_USER = "root"
 DB_PASSWORD = ""

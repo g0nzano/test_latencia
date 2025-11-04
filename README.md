@@ -1,6 +1,7 @@
 # test_latencia
 
 Este proyecto tiene como objetivo medir o analizar la latencia en ciertos procesos o servicios (describa aquí el propósito concreto del repositorio).
+<img width="1350" height="591" alt="newplot" src="https://github.com/user-attachments/assets/5f742b47-92b9-4158-981b-4740ce11714b" />
 
 ## 🚀 Instalación
 
